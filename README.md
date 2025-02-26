@@ -35,17 +35,10 @@ This Flutter application provides a comprehensive user management system with a 
 
 The application follows a clean architecture approach with clear separation of concerns:
 
-### Data Layer
-Responsible for retrieving and manipulating data from external sources:
-- **API Service**: Handles communication with backend services
-- **Data Models**: Defines how data is structured at the data layer
-- **Repositories Implementation**: Implements the repository interfaces defined in the domain layer
 
 ### Domain Layer
 Contains the business logic and defines the core functionality:
 - **Entities**: Core business objects (User model)
-- **Repository Interfaces**: Defines abstract methods for data operations
-- **Use Cases**: Implements business rules and logic
 
 ### Presentation Layer
 Manages the UI and user interactions:
