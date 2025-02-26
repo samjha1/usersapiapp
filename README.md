@@ -3,6 +3,8 @@
 ## Overview
 
 This Flutter application provides a comprehensive user management system with a modern, responsive UI. The app allows users to browse through a directory of users, search for specific users, view detailed profiles, and refresh the user list. Built using Flutter and following a structured architecture, the application demonstrates best practices in mobile app development including state management, error handling, animations, and responsive design.
+![WhatsApp Image 2025-02-26 at 3 17 15 PM](https://github.com/user-attachments/assets/c8781118-6a8e-4840-8a3d-5dacab03f2a7)
+![WhatsApp Image 2025-02-26 at 3 17 16 PM](https://github.com/user-attachments/assets/b4507c09-f447-4b22-8581-74b061afb502)
 
 ## Detailed Features
 
