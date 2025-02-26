@@ -1,4 +1,3 @@
-// New animated user card widget for better visual appeal
 import 'package:flutter/material.dart';
 
 class AnimatedUserCard extends StatelessWidget {
